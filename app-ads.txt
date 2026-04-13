@@ -1,2 +1,4 @@
 google.com, pub-5206380167443161, DIRECT, f08c47fec0942fa0
 facebook.com, 2931721143701524, RESELLER, c3e20eee3f780d68
+inmobi.com, e3572fe21e1549f8b531633ebba467f1, DIRECT, 83e75a7ae333ca9d
+mintegral.com, 10003, RESELLER
