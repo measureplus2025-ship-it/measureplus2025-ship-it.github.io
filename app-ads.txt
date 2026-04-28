@@ -1,6 +1,6 @@
 google.com, pub-5206380167443161, DIRECT, f08c47fec0942fa0
 facebook.com, 2931721143701524, RESELLER, c3e20eee3f780d68
-inmobi.com, 1074889656004c8d9d5b55a2f24fa71e, DIRECT, 83e75a7ae333ca9d
+inmobi.com, e3572fe21e1549f8b531633ebba467f1, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
@@ -60,7 +60,7 @@ pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
 rhebus.works, 7597018658, RESELLER
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
 mars.media, 1010450, RESELLER, 8624339f102fb076
-risecodes.com, 6967b71f6ae3af000199fab1, RESELLER
+risecodes.com, 662a26f1f3d42a00015ffbad, RESELLER
 smilewanted.com, 6022, RESELLER
 conversantmedia.com, 100357, RESELLER, 03113cd04947736d
 selectmedia.asia, 645b5a31e427dc0a87094fc4, RESELLER, e365c871a27c655d
@@ -95,3 +95,4 @@ acexchange.co.kr, 1562884725, RESELLER
 mman.kr, 32102, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+
